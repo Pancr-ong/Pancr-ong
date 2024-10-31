@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy [El Fundador RMNG]
+# 👋 ¡Hola! I'm [El Fundador RMNG]
 
-Bienvenido a mi perfil de GitHub. Aquí encontrarás mis proyectos y contribuciones.
+Bienvenido a mi perfil de GitHub. Aquí encontrarás mis proyectos y contribuciones. Ademas debes saber que soy aprendiz y primeriso en esta herramienta.
 
 ## Sobre Mí
 - 🌱 Me interesa desarrollar proyectos que impulsen el cambio social y el fortalecimiento cultural.
@@ -20,7 +20,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás mis proyectos y contribucio
 - **Redes Sociales**: Próximamente en TikTok, Instagram y YouTube.
 
 ## Herramientas y Tecnologías
-- **Lenguajes**: [Listar lenguajes que usas]
+- **Lenguajes**: [Español ingles]
 - **Herramientas de Desarrollo**: [GIT, Docker, etc.]
 - **Tecnologías Relacionadas**: Marketing digital, estrategias de recolección de fondos, desarrollo de campañas de medios.
 
